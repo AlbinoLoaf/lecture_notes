@@ -1,0 +1,14 @@
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\bin\Debug\net7.0\Client.exe
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\bin\Debug\net7.0\Client.dll
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\Client.dll
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\obj\Debug\net7.0\ref\Client.dll
