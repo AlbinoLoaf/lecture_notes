@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj": {}
+    "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj": {
+    "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Marius\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\obj\\",
+        "outputPath": "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_04\\AsyncAwaitHTTP\\src\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marius\\AppData\\Roaming\\NuGet\\NuGet.Config"

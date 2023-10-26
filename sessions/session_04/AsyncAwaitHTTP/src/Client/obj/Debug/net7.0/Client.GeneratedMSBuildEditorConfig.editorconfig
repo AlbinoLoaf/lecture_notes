@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Client
-build_property.ProjectDir = c:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\
+build_property.ProjectDir = C:\Users\Marius\Documents\ITU\3. Semester\BDSA\lecture_notes\sessions\session_04\AsyncAwaitHTTP\src\Client\

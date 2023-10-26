@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj": {}
+    "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj": {
+    "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj",
+        "projectUniqueName": "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj",
         "projectName": "hello",
-        "projectPath": "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj",
+        "projectPath": "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\bdsa_greeter.csproj",
         "packagesPath": "C:\\Users\\Marius\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\obj\\",
+        "outputPath": "C:\\Users\\Marius\\Documents\\ITU\\3. Semester\\BDSA\\lecture_notes\\sessions\\session_02\\bdsa_greeter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marius\\AppData\\Roaming\\NuGet\\NuGet.Config"
