@@ -151,8 +151,8 @@ a| * link:sessions/session_12/README_PROJECT.md[Add user info page and "forget m
 |7/12/23
 |Helge & Rasmus
 |
-|Project demo day
-|Complete projects and write reports
+|link:sessions/session_13/README_PROJECT.md#3-demo-day[Project demo day]
+|link:sessions/session_12/README_REPORT.md[Complete projects and write reports]
 |
 
 |=======================================================================
